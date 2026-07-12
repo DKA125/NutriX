@@ -1,0 +1,405 @@
+﻿Food;Calories;Proteins;Carbohydrates;Fat;Weight;Ammount;Category
+Rohlík;130;4;24;1,5;43 g;1 ks;Pečivo a snídaně
+Houska;150;5;28;2;50 g;1 ks;Pečivo a snídaně
+Veka (krajíc);100;3;19;1;40 g;1 plátek;Pečivo a snídaně
+Celozrnný chléb;90;3,5;16;1,2;40 g;1 plátek;Pečivo a snídaně
+Žitný chléb;95;3;18;0,8;40 g;1 plátek;Pečivo a snídaně
+Toustový chléb;65;2;12;0,8;25 g;1 plátek;Pečivo a snídaně
+Bageta;260;8;50;2;100 g;1 ks;Pečivo a snídaně
+Preclík slaný;190;5;35;3;60 g;1 ks;Pečivo a snídaně
+Croissant;270;5;28;15;60 g;1 ks;Pečivo a snídaně
+Kobliha s marmeládou;220;4;30;10;60 g;1 ks;Pečivo a snídaně
+Vánočka;210;5;32;7;60 g;1 plátek;Pečivo a snídaně
+Mazanec;230;5;35;8;70 g;1 plátek;Pečivo a snídaně
+Vejce vařené natvrdo;78;6,3;0,6;5,3;50 g;1 ks;Pečivo a snídaně
+Vejce smažené na oko;90;6;0,5;7;60 g;1 ks;Pečivo a snídaně
+Míchaná vejce;220;13;2;17;120 g;2 vejce;Pečivo a snídaně
+Vaječná omeleta se sýrem;320;20;3;25;150 g;1 porce;Pečivo a snídaně
+Ovesná kaše s mlékem;250;9;40;6;250 g;1 porce;Pečivo a snídaně
+Müsli s jogurtem;320;10;50;9;200 g;1 porce;Pečivo a snídaně
+Cornflakes s mlékem;220;7;42;3;250 g;1 porce;Pečivo a snídaně
+Müsli tyčinka;120;2;20;4;30 g;1 ks;Pečivo a snídaně
+Grahamový rohlík;120;4,5;20;2;45 g;1 ks;Pečivo a snídaně
+Bagel;260;10;50;1,5;90 g;1 ks;Pečivo a snídaně
+Anglická muffin;130;4;25;1;60 g;1 ks;Pečivo a snídaně
+Ovesné sušenky;130;2;18;6;30 g;2 ks;Pečivo a snídaně
+Chia pudink s mlékem;180;6;15;10;150 g;1 porce;Pečivo a snídaně
+Ovocné smoothie;150;2;35;0,5;250 ml;1 sklenice;Pečivo a snídaně
+Smažená slanina;150;10;0;12;30 g;3 plátky;Pečivo a snídaně
+Snídaňová klobása;200;9;2;17;70 g;2 ks;Pečivo a snídaně
+Avokádový toast;280;7;25;17;120 g;1 ks;Pečivo a snídaně
+Bramboračka;180;4;25;7;300 g;1 talíř;Polévky
+Hovězí vývar s játrovými knedlíčky;150;9;12;7;300 g;1 talíř;Polévky
+Gulášová polévka;220;12;18;11;300 g;1 talíř;Polévky
+Česnečka;120;3;15;5;250 g;1 talíř;Polévky
+Zelňačka;160;4;14;9;300 g;1 talíř;Polévky
+Dršťková polévka;190;10;15;10;300 g;1 talíř;Polévky
+Čočková polévka;200;10;30;4;300 g;1 talíř;Polévky
+Hrachová polévka;210;11;32;4;300 g;1 talíř;Polévky
+Rajská polévka;90;2;14;2,5;250 g;1 talíř;Polévky
+Kulajda;230;6;20;14;300 g;1 talíř;Polévky
+Frankfurtská polévka (zelná s klobásou);210;9;15;13;300 g;1 talíř;Polévky
+Boršč;130;4;18;4;300 g;1 talíř;Polévky
+Minestrone;140;5;20;4;300 g;1 talíř;Polévky
+Krémová houbová polévka;200;4;15;14;300 g;1 talíř;Polévky
+Rybí polévka;180;12;10;10;300 g;1 talíř;Polévky
+Cibulačka se sýrem;250;8;20;15;300 g;1 talíř;Polévky
+Gazpacho;80;2;12;3;250 g;1 talíř;Polévky
+Svíčková na smetaně s knedlíkem;650;30;55;32;400 g;1 porce;Hlavní jídla (česká)
+Hovězí guláš;420;28;20;24;350 g;1 porce;Hlavní jídla (česká)
+Segedínský guláš;480;25;20;32;400 g;1 porce;Hlavní jídla (česká)
+Vepřo knedlo zelo;780;35;65;40;450 g;1 porce;Hlavní jídla (česká)
+Smažený vepřový řízek;380;25;15;24;150 g;1 ks;Hlavní jídla (česká)
+Smažený kuřecí řízek;340;28;14;18;150 g;1 ks;Hlavní jídla (česká)
+Pečené kuře;380;35;2;25;200 g;1 porce;Hlavní jídla (česká)
+Pečená kachna s knedlíkem a zelím;900;32;60;55;500 g;1 porce;Hlavní jídla (česká)
+Pečená husa s knedlíkem a zelím;950;30;55;62;500 g;1 porce;Hlavní jídla (česká)
+Smažený kapr;400;30;20;22;200 g;1 porce;Hlavní jídla (česká)
+Rybí filé pečené;220;28;2;10;150 g;1 porce;Hlavní jídla (česká)
+Špagety s rajskou omáčkou;420;12;70;10;300 g;1 porce;Hlavní jídla (česká)
+Bramborové halušky se zelím a slaninou;520;12;60;25;350 g;1 porce;Hlavní jídla (česká)
+Bramboráky;500;12;60;22;240 g;2 ks;Hlavní jídla (česká)
+Škubánky s mákem;450;8;70;15;250 g;1 porce;Hlavní jídla (česká)
+Žemlovka s jablky;400;10;55;15;250 g;1 porce;Hlavní jídla (česká)
+Sekaná pečeně;300;20;10;20;150 g;1 porce;Hlavní jídla (česká)
+Plněné papriky s rajskou omáčkou;380;18;35;18;400 g;1 porce;Hlavní jídla (česká)
+Koprová omáčka se šunkovým knedlíkem;420;15;45;20;350 g;1 porce;Hlavní jídla (česká)
+Houbová omáčka s knedlíkem;380;10;50;15;350 g;1 porce;Hlavní jídla (česká)
+Čevapčiči;350;25;5;25;150 g;5 ks;Hlavní jídla (česká)
+Přírodní vepřová kotleta;300;28;0;20;150 g;1 ks;Hlavní jídla (česká)
+Smažený sýr s hranolky;650;20;55;38;250 g;1 porce;Hlavní jídla (česká)
+Langoš s česnekem a sýrem;480;12;55;22;200 g;1 ks;Hlavní jídla (česká)
+Znojemská hovězí pečeně;420;26;15;26;350 g;1 porce;Hlavní jídla (česká)
+Bramborové šišky s mákem;400;7;65;12;200 g;1 porce;Hlavní jídla (česká)
+Krupicová kaše;220;6;35;6;250 g;1 porce;Hlavní jídla (česká)
+Zabijačková kapusta s uzeným;350;15;20;22;300 g;1 porce;Hlavní jídla (česká)
+Pizza Margherita;600;24;75;22;250 g;2 kusy;Mezinárodní a fastfoodová jídla
+Pizza salámová;750;30;80;32;300 g;2 kusy;Mezinárodní a fastfoodová jídla
+Špagety Carbonara;550;20;60;25;350 g;1 porce;Mezinárodní a fastfoodová jídla
+Lasagne;480;25;40;24;300 g;1 porce;Mezinárodní a fastfoodová jídla
+Hamburger;350;17;32;17;150 g;1 ks;Mezinárodní a fastfoodová jídla
+Cheeseburger;420;20;33;22;170 g;1 ks;Mezinárodní a fastfoodová jídla
+Hranolky (velká porce);450;5;55;22;150 g;1 porce;Mezinárodní a fastfoodová jídla
+Kuřecí nugetky;280;15;17;17;100 g;6 ks;Mezinárodní a fastfoodová jídla
+Kebab (dürüm);650;30;60;30;350 g;1 ks;Mezinárodní a fastfoodová jídla
+Sushi (mix);350;15;60;5;200 g;8 ks;Mezinárodní a fastfoodová jídla
+Currywurst s hranolky;650;18;55;40;350 g;1 porce;Mezinárodní a fastfoodová jídla
+Paella;450;20;55;15;350 g;1 porce;Mezinárodní a fastfoodová jídla
+Quiche Lorraine;400;12;25;28;150 g;1 kus;Mezinárodní a fastfoodová jídla
+Burrito s kuřecím masem;550;25;60;22;300 g;1 ks;Mezinárodní a fastfoodová jídla
+Tacos s hovězím masem;350;15;30;18;150 g;2 ks;Mezinárodní a fastfoodová jídla
+Gyros s pita chlebem;600;28;55;28;350 g;1 ks;Mezinárodní a fastfoodová jídla
+Falafel;330;13;30;18;100 g;4 ks;Mezinárodní a fastfoodová jídla
+Hummus;220;7;17;14;100 g;1 porce;Mezinárodní a fastfoodová jídla
+Ratatouille;150;3;18;7;250 g;1 porce;Mezinárodní a fastfoodová jídla
+Moussaka;480;20;25;32;350 g;1 porce;Mezinárodní a fastfoodová jídla
+Fish and chips;800;30;70;40;400 g;1 porce;Mezinárodní a fastfoodová jídla
+Vídeňský řízek (Wiener Schnitzel);380;25;15;24;150 g;1 ks;Mezinárodní a fastfoodová jídla
+Döner talíř;550;30;40;28;400 g;1 porce;Mezinárodní a fastfoodová jídla
+Ravioli se sýrem;400;15;55;13;300 g;1 porce;Mezinárodní a fastfoodová jídla
+Gnocchi se sýrovou omáčkou;480;12;60;20;300 g;1 porce;Mezinárodní a fastfoodová jídla
+Rizoto s houbami;420;10;60;14;300 g;1 porce;Mezinárodní a fastfoodová jídla
+Chicken Tikka Masala s rýží;550;30;50;25;400 g;1 porce;Mezinárodní a fastfoodová jídla
+Zeleninové kari s rýží;420;8;65;14;400 g;1 porce;Mezinárodní a fastfoodová jídla
+Pad Thai;480;18;60;18;350 g;1 porce;Mezinárodní a fastfoodová jídla
+Ramen s vepřovým masem;500;20;55;20;400 g;1 porce;Mezinárodní a fastfoodová jídla
+Pho hovězí;400;22;50;10;400 g;1 porce;Mezinárodní a fastfoodová jídla
+Dim sum (mix);300;12;35;12;150 g;6 ks;Mezinárodní a fastfoodová jídla
+Bibimbap;550;20;70;18;400 g;1 porce;Mezinárodní a fastfoodová jídla
+Shawarma;600;28;50;30;350 g;1 ks;Mezinárodní a fastfoodová jídla
+Empanada;250;8;25;13;100 g;1 ks;Mezinárodní a fastfoodová jídla
+Nachos se sýrem;550;12;55;30;250 g;1 porce;Mezinárodní a fastfoodová jídla
+Enchiladas;450;18;40;24;300 g;2 ks;Mezinárodní a fastfoodová jídla
+Fajitas s kuřecím masem;500;25;45;22;350 g;1 porce;Mezinárodní a fastfoodová jídla
+Poke bowl s lososem;480;25;55;16;400 g;1 porce;Mezinárodní a fastfoodová jídla
+Wrap s falafelem;420;12;55;16;250 g;1 ks;Mezinárodní a fastfoodová jídla
+Caesar salát s kuřecím masem;380;25;12;25;300 g;1 porce;Mezinárodní a fastfoodová jídla
+Club sandwich;480;25;40;22;250 g;1 ks;Mezinárodní a fastfoodová jídla
+BLT sandwich;400;16;32;22;200 g;1 ks;Mezinárodní a fastfoodová jídla
+Croque monsieur;450;20;30;27;180 g;1 ks;Mezinárodní a fastfoodová jídla
+Bratwurst s hořčicí;320;14;5;27;150 g;1 ks;Mezinárodní a fastfoodová jídla
+Kysané zelí s klobásou;350;14;15;25;300 g;1 porce;Mezinárodní a fastfoodová jídla
+Pierogi s bramborami a sýrem;350;10;50;12;250 g;6 ks;Mezinárodní a fastfoodová jídla
+Bigos;380;18;20;24;350 g;1 porce;Mezinárodní a fastfoodová jídla
+Maďarský guláš;400;22;25;22;350 g;1 porce;Mezinárodní a fastfoodová jídla
+Španělská tortilla (bramborová omeleta);300;12;25;17;200 g;1 porce;Mezinárodní a fastfoodová jídla
+Patatas bravas;350;5;40;18;200 g;1 porce;Mezinárodní a fastfoodová jídla
+Churros s čokoládou;350;5;45;16;100 g;4 ks;Mezinárodní a fastfoodová jídla
+Tiramisu;350;6;30;22;120 g;1 porce;Mezinárodní a fastfoodová jídla
+Panna cotta;280;4;22;19;120 g;1 porce;Mezinárodní a fastfoodová jídla
+Crème brûlée;320;5;25;22;120 g;1 porce;Mezinárodní a fastfoodová jídla
+Profiterolky;280;5;25;18;100 g;3 ks;Mezinárodní a fastfoodová jídla
+Makronky;90;1,5;12;4;25 g;1 ks;Mezinárodní a fastfoodová jídla
+Baklava;300;4;30;18;80 g;1 kus;Mezinárodní a fastfoodová jídla
+Tzatziki;70;3;4;5;100 g;1 porce;Mezinárodní a fastfoodová jídla
+Řecký salát;220;5;8;18;250 g;1 porce;Mezinárodní a fastfoodová jídla
+Souvlaki (vepřové na špejli);300;25;3;20;150 g;1 porce;Mezinárodní a fastfoodová jídla
+Pita chléb;165;5;33;1;60 g;1 ks;Mezinárodní a fastfoodová jídla
+Naan chléb;260;8;48;5;90 g;1 ks;Mezinárodní a fastfoodová jídla
+Samosa;260;5;28;14;100 g;2 ks;Mezinárodní a fastfoodová jídla
+Chicken Biryani;550;25;65;20;400 g;1 porce;Mezinárodní a fastfoodová jídla
+Butter Chicken s rýží;600;28;55;28;400 g;1 porce;Mezinárodní a fastfoodová jídla
+Houskový knedlík;190;5;40;1;100 g;2 plátky;Přílohy
+Bramborový knedlík;220;4;45;2;120 g;2 ks;Přílohy
+Vařené brambory;130;3;28;0,2;150 g;3;Přílohy
+Hranolky;400;5;50;20;150 g;1 porce;Přílohy
+Vařená rýže;195;4;43;0,5;150 g;1 porce;Přílohy
+Bramborová kaše;210;4;30;8;200 g;1 porce;Přílohy
+Vařené těstoviny;280;9;55;1,5;200 g;1 porce;Přílohy
+Dušené zelí;70;1,5;10;3;150 g;1 porce;Přílohy
+Quinoa vařená;180;6;32;3;150 g;1 porce;Přílohy
+Kuskus vařený;175;5;36;0,5;150 g;1 porce;Přílohy
+Bulgur vařený;170;5;34;0,5;150 g;1 porce;Přílohy
+Polenta;150;3;30;2;200 g;1 porce;Přílohy
+Pečené batáty;180;3;40;0,5;200 g;1 porce;Přílohy
+Restovaná zelenina;120;3;12;7;200 g;1 porce;Přílohy
+Grilovaná zelenina;100;2,5;10;6;200 g;1 porce;Přílohy
+Čočka vařená;170;13;25;0,6;150 g;1 porce;Luštěniny
+Cizrna vařená;210;12;35;3;150 g;1 porce;Luštěniny
+Fazole vařené;190;12;32;0,8;150 g;1 porce;Luštěniny
+Hrách vařený;165;11;28;0,5;150 g;1 porce;Luštěniny
+Edamame (sójové boby);120;11;9;5;100 g;1 porce;Luštěniny
+Červená čočka vařená;160;12;24;0,5;150 g;1 porce;Luštěniny
+Černé fazole vařené;180;11;30;0,7;150 g;1 porce;Luštěniny
+Jablko;78;0,4;20;0,3;150 g;1 ks;Ovoce
+Banán;105;1,3;27;0,4;120 g;1 ks;Ovoce
+Pomeranč;70;1,3;17;0,2;150 g;1 ks;Ovoce
+Hruška;85;0,5;22;0,2;150 g;1 ks;Ovoce
+Jahody;45;1;10;0,4;150 g;1 porce;Ovoce
+Vodní meloun;60;1;15;0,3;200 g;1 porce;Ovoce
+Hroznové víno;70;0,6;17;0,2;100 g;1 porce;Ovoce
+Broskev;60;1,4;14;0,4;150 g;1 ks;Ovoce
+Švestky;55;0,7;13;0,2;100 g;3 ks;Ovoce
+Kiwi;50;1;10;0,4;80 g;1 ks;Ovoce
+Mango;120;1,3;30;0,6;200 g;1 porce;Ovoce
+Ananas;75;0,8;20;0,2;150 g;1 porce;Ovoce
+Citron;30;1,1;9;0,3;100 g;1 ks;Ovoce
+Maliny;50;1,5;12;0,7;100 g;1 porce;Ovoce
+Borůvky;55;0,7;14;0,3;100 g;1 porce;Ovoce
+Mandarinka;45;0,7;11;0,2;100 g;1 ks;Ovoce
+Grapefruit;65;1,3;16;0,2;200 g;1 ks;Ovoce
+Meruňky;48;1,4;11;0,4;100 g;3 ks;Ovoce
+Třešně;63;1,1;16;0,2;100 g;1 porce;Ovoce
+Sušené švestky;75;0,7;20;0,1;30 g;5 ks;Ovoce
+Fíky čerstvé;55;0,8;13;0,2;80 g;2 ks;Ovoce
+Datle sušené;90;0,8;24;0,1;40 g;4 ks;Ovoce
+Granátové jablko;105;2;24;1,2;150 g;1 porce;Ovoce
+Liči;65;0,8;16;0,4;100 g;6 ks;Ovoce
+Papája;55;0,6;14;0,2;150 g;1 porce;Ovoce
+Rebarbora vařená;25;0,7;5;0,2;100 g;1 porce;Ovoce
+Angrešt;45;0,9;10;0,6;100 g;1 porce;Ovoce
+Červený rybíz;55;1,4;13;0,2;100 g;1 porce;Ovoce
+Černý rybíz;60;1,4;15;0,4;100 g;1 porce;Ovoce
+Kokos čerstvý;190;2;8;17;80 g;1 porce;Ovoce
+Avokádo;240;3;12;22;150 g;1 ks;Ovoce
+Rajče;22;1;4,8;0,2;120 g;1 ks;Zelenina
+Okurka;24;1;4;0,2;150 g;0,5 ks;Zelenina
+Mrkev;33;0,7;8;0,2;80 g;1 ks;Zelenina
+Paprika;30;1;7;0,3;120 g;1 ks;Zelenina
+Cibule;32;0,9;7,5;0,1;80 g;1 ks;Zelenina
+Česnek;15;0,6;3;0,05;10 g;3 stroužky;Zelenina
+Brokolice vařená;35;2,8;7;0,4;100 g;1 porce;Zelenina
+Květák vařený;25;1,9;5;0,3;100 g;1 porce;Zelenina
+Špenát vařený;23;2,9;3,6;0,4;100 g;1 porce;Zelenina
+Hlávkový salát;7;0,6;1,2;0,1;50 g;1 porce;Zelenina
+Cuketa;25;2;4;0,3;150 g;1 ks;Zelenina
+Lilek;37;1,4;8;0,3;150 g;1 ks;Zelenina
+Hrášek vařený;81;5,4;14;0,4;100 g;1 porce;Zelenina
+Kukuřice vařená;96;3,4;21;1,5;100 g;1 porce;Zelenina
+Žampiony;22;3,1;3,3;0,3;100 g;1 porce;Zelenina
+Dýně;39;1,5;9;0,2;150 g;1 porce;Zelenina
+Celer;16;0,7;3;0,2;80 g;1 porce;Zelenina
+Pórek;30;1,5;6;0,3;100 g;1 porce;Zelenina
+Ředkvička;16;0,7;3,4;0,1;100 g;1 porce;Zelenina
+Červená řepa vařená;44;1,6;10;0,2;100 g;1 porce;Zelenina
+Kedlubna;27;1,7;6;0,1;100 g;1 porce;Zelenina
+Chřest vařený;22;2,4;3,9;0,2;100 g;1 porce;Zelenina
+Artyčok vařený;47;3,3;10;0,2;100 g;1 ks;Zelenina
+Fenykl;31;1,2;7;0,2;100 g;1 porce;Zelenina
+Batáty syrové;86;1,6;20;0,1;100 g;1 porce;Zelenina
+Rajčatový protlak;32;1,6;6;0,2;50 g;1 porce;Zelenina
+Kysané zelí;19;0,9;4,3;0,1;100 g;1 porce;Zelenina
+Hovězí maso libové (vařené);280;42;0;12;150 g;1 porce;Maso a ryby
+Vepřová panenka pečená;260;35;0;13;150 g;1 porce;Maso a ryby
+Kuřecí prsa grilovaná;250;46;0;6;150 g;1 porce;Maso a ryby
+Krůtí prsa;230;44;0;5;150 g;1 porce;Maso a ryby
+Jehněčí kotleta;320;30;0;22;150 g;1 porce;Maso a ryby
+Losos pečený;310;29;0;20;150 g;1 porce;Maso a ryby
+Tuňák konzervovaný ve vodě;110;24;0;1;100 g;1 konzerva;Maso a ryby
+Treska pečená;150;30;0;2;150 g;1 porce;Maso a ryby
+Krevety vařené;100;20;1;1,5;100 g;1 porce;Maso a ryby
+Sardinky v oleji;210;20;0;14;100 g;1 konzerva;Maso a ryby
+Sleď marinovaný;190;18;5;10;100 g;1 porce;Maso a ryby
+Vepřová krkovice grilovaná;320;25;0;24;150 g;1 porce;Maso a ryby
+Hovězí steak (roštěná);350;32;0;24;200 g;1 ks;Maso a ryby
+Kachní prsa;300;28;0;20;150 g;1 porce;Maso a ryby
+Králičí maso pečené;220;33;0;9;150 g;1 porce;Maso a ryby
+Srnčí maso (zvěřina);200;34;0;6;150 g;1 porce;Maso a ryby
+Makrela uzená;250;22;0;18;100 g;1 porce;Maso a ryby
+Pstruh pečený;200;27;0;10;150 g;1 ks;Maso a ryby
+Mořský vlk (bránek);170;25;0;7;150 g;1 porce;Maso a ryby
+Chobotnice vařená;160;30;4;2;100 g;1 porce;Maso a ryby
+Kalamáry smažené;300;15;20;18;150 g;1 porce;Maso a ryby
+Mušle (moules);170;24;7;4;150 g;1 porce;Maso a ryby
+Humr vařený;130;26;1;1,5;150 g;1 porce;Maso a ryby
+Bramborový salát;260;4;30;13;200 g;1 porce;Saláty
+Coleslaw;180;2;12;14;150 g;1 porce;Saláty
+Hlávkový zelný salát;60;1;8;2,5;100 g;1 porce;Saláty
+Rajčatový salát;40;1;6;1,5;100 g;1 porce;Saláty
+Okurkový salát;35;1;5;1;100 g;1 porce;Saláty
+Caesar salát (bez masa);250;8;12;20;250 g;1 porce;Saláty
+Quinoa salát se zeleninou;220;7;30;8;250 g;1 porce;Saláty
+Cottage salát se zeleninou;180;14;10;8;200 g;1 porce;Saláty
+Šunka;60;10;0,5;2;50 g;2 plátky;Uzeniny a sýry
+Salám Vysočina;150;8;2;12;50 g;4 plátky;Uzeniny a sýry
+Turistický salám;160;7;2;14;50 g;4 plátky;Uzeniny a sýry
+Párek;230;9;2;20;80 g;1 ks;Uzeniny a sýry
+Klobása;300;13;3;26;100 g;1 ks;Uzeniny a sýry
+Jitrnice;260;12;8;20;100 g;1 ks;Uzeniny a sýry
+Jelito;240;10;10;18;100 g;1 ks;Uzeniny a sýry
+Tlačenka;190;14;1;14;80 g;2 plátky;Uzeniny a sýry
+Škvarky;180;8;0;17;30 g;1 porce;Uzeniny a sýry
+Uzené maso;220;20;0;15;100 g;1 porce;Uzeniny a sýry
+Špekáček;250;10;2;22;80 g;1 ks;Uzeniny a sýry
+Eidam;100;7;0,5;8;30 g;1 plátek;Uzeniny a sýry
+Hermelín;300;20;1;24;100 g;1 ks;Uzeniny a sýry
+Niva;110;6;0,5;9;30 g;1 porce;Uzeniny a sýry
+Olomoucké tvarůžky;65;10;0,5;2;30 g;1 ks;Uzeniny a sýry
+Čerstvý tvaroh;100;12;4;3,5;100 g;1 porce;Uzeniny a sýry
+Mozzarella;280;22;2;22;100 g;1 porce;Uzeniny a sýry
+Parmezán;130;10;0;9;30 g;1 porce;Uzeniny a sýry
+Cottage cheese;98;11;3;4,3;100 g;1 porce;Uzeniny a sýry
+Camembert;300;20;1;24;100 g;1 porce;Uzeniny a sýry
+Gouda;350;25;2;27;100 g;1 porce;Uzeniny a sýry
+Cheddar;400;25;1;33;100 g;1 porce;Uzeniny a sýry
+Feta (balkánský sýr);260;14;4;21;100 g;1 porce;Uzeniny a sýry
+Ricotta;170;11;3;13;100 g;1 porce;Uzeniny a sýry
+Brie;330;21;0,5;27;100 g;1 porce;Uzeniny a sýry
+Modrý sýr (Roquefort);370;21;2;31;100 g;1 porce;Uzeniny a sýry
+Uzený losos;180;22;0;10;80 g;1 porce;Uzeniny a sýry
+Prosciutto (parmská šunka);210;25;0;12;50 g;3 plátky;Uzeniny a sýry
+Debrecínský párek;260;12;1;22;80 g;1 ks;Uzeniny a sýry
+Anglická slanina (bacon);190;12;0,5;15;40 g;3 plátky;Uzeniny a sýry
+Mléko polotučné;120;8;12;5;250 ml;1 sklenice;Mléčné výrobky a tuky
+Mléko plnotučné;150;8;12;8;250 ml;1 sklenice;Mléčné výrobky a tuky
+Bílý jogurt;90;5;7;4,5;150 g;1 kelímek;Mléčné výrobky a tuky
+Ovocný jogurt;150;5;25;3;150 g;1 kelímek;Mléčné výrobky a tuky
+Řecký jogurt bílý;130;10;6;7;150 g;1 kelímek;Mléčné výrobky a tuky
+Kefír;130;8;10;6;250 ml;1 sklenice;Mléčné výrobky a tuky
+Smetana ke šlehání;100;0,5;1;10;30 ml;1 porce;Mléčné výrobky a tuky
+Kysaná smetana;55;1;2;5;30 g;1 porce;Mléčné výrobky a tuky
+Máslo;72;0,1;0,1;8;10 g;1 kostka;Mléčné výrobky a tuky
+Sádlo;90;0;0;10;10 g;1 lžíce;Mléčné výrobky a tuky
+Skyr;65;11;4;0,2;150 g;1 kelímek;Mléčné výrobky a tuky
+Podmáslí;90;6;9;2;250 ml;1 sklenice;Mléčné výrobky a tuky
+Zakysané mléko;100;6;8;4;250 ml;1 sklenice;Mléčné výrobky a tuky
+Kokosové mléko;230;2;3;24;100 ml;1 porce;Mléčné výrobky a tuky
+Sójové mléko;90;7;4;4,5;250 ml;1 sklenice;Mléčné výrobky a tuky
+Mandlové mléko;40;1;2;3;250 ml;1 sklenice;Mléčné výrobky a tuky
+Rostlinná smetana (na vaření);150;1;4;15;50 ml;1 porce;Mléčné výrobky a tuky
+Veganská majonéza;80;0,2;1;8;15 g;1 lžíce;Mléčné výrobky a tuky
+Vlašské ořechy;200;4,5;4;20;30 g;1 hrst;Ořechy, semínka a tuky
+Mandle;175;6;6;15;30 g;1 hrst;Ořechy, semínka a tuky
+Kešu;165;5;9;13;30 g;1 hrst;Ořechy, semínka a tuky
+Arašídy;170;7;5;14;30 g;1 hrst;Ořechy, semínka a tuky
+Slunečnicová semínka;175;6;6;15;30 g;1 hrst;Ořechy, semínka a tuky
+Dýňová semínka;165;9;3;14;30 g;1 hrst;Ořechy, semínka a tuky
+Olivový olej;90;0;0;10;10 ml;1 lžíce;Ořechy, semínka a tuky
+Slunečnicový olej;88;0;0;10;10 ml;1 lžíce;Ořechy, semínka a tuky
+Margarín;75;0;0;8;10 g;1 lžíce;Ořechy, semínka a tuky
+Pistácie;170;6;8;14;30 g;1 hrst;Ořechy, semínka a tuky
+Lískové ořechy;190;4,5;5;18;30 g;1 hrst;Ořechy, semínka a tuky
+Piniové oříšky;190;4;4;19;30 g;1 hrst;Ořechy, semínka a tuky
+Chia semínka;140;4,5;12;9;30 g;1 lžíce;Ořechy, semínka a tuky
+Lněná semínka;150;5;8;12;30 g;1 lžíce;Ořechy, semínka a tuky
+Kokosový olej;90;0;0;10;10 ml;1 lžíce;Ořechy, semínka a tuky
+Arašídové máslo;190;8;6;16;30 g;1 lžíce;Ořechy, semínka a tuky
+Tahini (sezamová pasta);175;5;6;16;30 g;1 lžíce;Ořechy, semínka a tuky
+Buchty s mákem;250;5;40;8;80 g;1 ks;Moučníky a sladkosti
+Tvarohový koláč;220;5;30;9;70 g;1 ks;Moučníky a sladkosti
+Jablečný štrůdl;260;3;40;10;100 g;1 porce;Moučníky a sladkosti
+Palačinky s marmeládou;320;7;50;9;150 g;2 ks;Moučníky a sladkosti
+Lívance;280;7;40;9;100 g;3 ks;Moučníky a sladkosti
+Vdolky;230;5;35;8;80 g;2 ks;Moučníky a sladkosti
+Trdelník;350;6;55;12;100 g;1 ks;Moučníky a sladkosti
+Medovník;320;4;45;14;80 g;1 kousek;Moučníky a sladkosti
+Věneček;260;4;30;14;70 g;1 ks;Moučníky a sladkosti
+Indiánek;250;3;28;15;60 g;1 ks;Moučníky a sladkosti
+Rakvička se šlehačkou;180;2;25;8;50 g;1 ks;Moučníky a sladkosti
+Vosí hnízdo (cukroví);75;1;9;4;15 g;1 ks;Moučníky a sladkosti
+Linecké cukroví;70;1;9;3,5;15 g;1 ks;Moučníky a sladkosti
+Perník;110;1,5;22;2;30 g;1 ks;Moučníky a sladkosti
+Zmrzlina;110;2;15;5;60 g;1 kopeček;Moučníky a sladkosti
+Mléčná čokoláda;160;2;17;9;30 g;3 kostky;Moučníky a sladkosti
+Hořká čokoláda 70%;170;2;13;12;30 g;3 kostky;Moučníky a sladkosti
+Sušenky;140;2;20;6;30 g;3 ks;Moučníky a sladkosti
+Oplatky;100;1;14;4,5;20 g;1 ks;Moučníky a sladkosti
+Tyčinka (typ Mars/Snickers);230;3;32;10;50 g;1 ks;Moučníky a sladkosti
+Gumoví medvídci;100;1,5;22;0;30 g;1 porce;Moučníky a sladkosti
+Cheesecake;350;6;30;22;100 g;1 kus;Moučníky a sladkosti
+Čokoládový muffin;350;5;45;17;100 g;1 ks;Moučníky a sladkosti
+Brownie;380;5;45;20;80 g;1 kus;Moučníky a sladkosti
+Donut s polevou;260;3;30;14;70 g;1 ks;Moučníky a sladkosti
+Marshmallow;90;0,5;23;0;30 g;5 ks;Moučníky a sladkosti
+Nugát;140;2;15;8;30 g;1 porce;Moučníky a sladkosti
+Halva;150;3;15;9;30 g;1 porce;Moučníky a sladkosti
+Lentilky;140;1;22;5;30 g;1 sáček;Moučníky a sladkosti
+Karamelky;110;0,5;22;2;30 g;3 ks;Moučníky a sladkosti
+Med;60;0,1;16;0;20 g;1 lžíce;Moučníky a sladkosti
+Javorový sirup;52;0;13;0;20 g;1 lžíce;Moučníky a sladkosti
+Nutella;105;1,2;11;6;20 g;1 lžíce;Moučníky a sladkosti
+Ovocná marmeláda;50;0,1;13;0;20 g;1 lžíce;Moučníky a sladkosti
+Proteinová tyčinka;200;20;18;7;60 g;1 ks;Moučníky a sladkosti
+Pivo 12°;220;2;20;0;500 ml;1 pinta;Nápoje
+Víno bílé;120;0,1;4;0;150 ml;1 sklenka;Nápoje
+Víno červené;125;0,1;4;0;150 ml;1 sklenka;Nápoje
+Rum;105;0;0;0;40 ml;1 panák;Nápoje
+Vodka;95;0;0;0;40 ml;1 panák;Nápoje
+Whisky;100;0;0;0;40 ml;1 panák;Nápoje
+Gin s tonikem;150;0;15;0;250 ml;1 sklenice;Nápoje
+Mojito;170;0;18;0;250 ml;1 sklenice;Nápoje
+Kofola;140;0;35;0;330 ml;1 sklenice;Nápoje
+Malinovka;150;0;37;0;330 ml;1 sklenice;Nápoje
+Černý čaj slazený;40;0;10;0;250 ml;1 hrnek;Nápoje
+Zelený čaj;2;0;0;0;250 ml;1 hrnek;Nápoje
+Káva s mlékem;50;2;4;2,5;200 ml;1 hrnek;Nápoje
+Pomerančový džus;110;1,5;26;0,3;250 ml;1 sklenice;Nápoje
+Minerálka;0;0;0;0;330 ml;1 láhev;Nápoje
+Energetický nápoj;110;0;27;0;250 ml;1 plechovka;Nápoje
+Cappuccino;80;4;6;4;200 ml;1 hrnek;Nápoje
+Latte;120;6;10;6;250 ml;1 hrnek;Nápoje
+Matcha latte;130;5;15;5;250 ml;1 hrnek;Nápoje
+Espresso;5;0,3;0,5;0,1;30 ml;1 šálek;Nápoje
+Horká čokoláda;220;7;30;8;250 ml;1 hrnek;Nápoje
+Kokosová voda;45;1,7;9;0,5;250 ml;1 sklenice;Nápoje
+Isotonický nápoj;80;0;20;0;500 ml;1 láhev;Nápoje
+Mléčný koktejl (jahodový);300;8;45;9;300 ml;1 sklenice;Nápoje
+Obložený chlebíček;150;5;15;8;60 g;1 ks;Rychlé občerstvení a svačiny
+Bageta se šunkou a sýrem;380;18;45;14;150 g;1 ks;Rychlé občerstvení a svačiny
+Utopenci;220;10;3;19;100 g;2 ks;Rychlé občerstvení a svačiny
+Nakládaný hermelín;320;18;2;26;100 g;1 ks;Rychlé občerstvení a svačiny
+Chlebíček s vejcem a majonézou;160;4;15;10;60 g;1 ks;Rychlé občerstvení a svačiny
+Brambůrky (chipsy);270;3;27;17;50 g;1 sáček;Rychlé občerstvení a svačiny
+Popcorn slaný;150;3;18;8;30 g;1 porce;Rychlé občerstvení a svačiny
+Wrap s kuřecím masem;400;22;40;16;250 g;1 ks;Rychlé občerstvení a svačiny
+Toustový sendvič se šunkou a sýrem;320;15;30;15;150 g;1 ks;Rychlé občerstvení a svačiny
+Hot-dog;300;11;30;15;150 g;1 ks;Rychlé občerstvení a svačiny
+Pizza slice pepperoni;300;13;30;14;130 g;1 kus;Rychlé občerstvení a svačiny
+French fries (malá porce);250;3;32;12;80 g;1 porce;Rychlé občerstvení a svačiny
+Onion rings;320;4;35;18;100 g;1 porce;Rychlé občerstvení a svačiny
+Mozzarella sticks;350;15;25;22;120 g;6 ks;Rychlé občerstvení a svačiny
+Chicken wings;400;25;5;30;150 g;5 ks;Rychlé občerstvení a svačiny
+Quesadilla se sýrem;380;15;35;20;150 g;1 ks;Rychlé občerstvení a svačiny
+Kečup;20;0,3;5;0,1;15 g;1 lžíce;Omáčky a dochucovadla
+Hořčice;15;0,9;1;0,7;15 g;1 lžíce;Omáčky a dochucovadla
+Majonéza;95;0,2;0,6;10;15 g;1 lžíce;Omáčky a dochucovadla
+Sójová omáčka;8;1;1;0;15 ml;1 lžíce;Omáčky a dochucovadla
+BBQ omáčka;30;0,3;7;0,1;15 g;1 lžíce;Omáčky a dochucovadla
+Balzamikový ocet;14;0,1;3;0;15 ml;1 lžíce;Omáčky a dochucovadla
+Tatarská omáčka;90;0,3;2;9;20 g;1 lžíce;Omáčky a dochucovadla
+Pesto;90;1,5;1,5;9;15 g;1 lžíce;Omáčky a dochucovadla
+Tofu přírodní;90;10;2;5;100 g;1 porce;Vegetariánské a veganské
+Tempeh;190;19;8;11;100 g;1 porce;Vegetariánské a veganské
+Seitan;120;22;4;2;100 g;1 porce;Vegetariánské a veganské
+Veganský burger (rostlinná placka);250;18;15;14;120 g;1 ks;Vegetariánské a veganské
+Rostlinný jogurt (kokosový);120;1;8;9;150 g;1 kelímek;Vegetariánské a veganské
